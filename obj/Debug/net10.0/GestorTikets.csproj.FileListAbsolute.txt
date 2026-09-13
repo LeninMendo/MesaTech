@@ -1,0 +1,14 @@
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\bin\Debug\net10.0\GestorTikets.exe
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\bin\Debug\net10.0\GestorTikets.deps.json
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\bin\Debug\net10.0\GestorTikets.runtimeconfig.json
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\bin\Debug\net10.0\GestorTikets.dll
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\bin\Debug\net10.0\GestorTikets.pdb
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.AssemblyInfo.cs
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.dll
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\refint\GestorTikets.dll
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.pdb
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\GestorTikets.genruntimeconfig.cache
+C:\Users\lenin\source\repos\GestorTikets\GestorTikets\obj\Debug\net10.0\ref\GestorTikets.dll
